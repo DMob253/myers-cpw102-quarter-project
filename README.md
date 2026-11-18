@@ -1,5 +1,7 @@
 # [Project name]
 
+Car Maintencance aka UFix
+
 ## Project description
 
 Describe what your project does and who it helps.
@@ -8,6 +10,9 @@ Describe what your project does and who it helps.
 
 Add your name and, optionally, your GitHub username.
 
+Damon Myers
+GitHub - DMob253
+
 ## Environment setup
 
 List the Python version and the commands to create and activate a virtual environment.
@@ -15,6 +20,7 @@ List the Python version and the commands to create and activate a virtual enviro
 ## Dependencies
 
 Explain how to install any packages your project needs.
+pip install [package name]
 
 ## Running the project
 
