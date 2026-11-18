@@ -17,13 +17,17 @@ This will make the users feel empowered knowing that repairing vehicles isn't al
 
 [Which users, use cases, and features will this app cover?]
 
-I'm hoping to implement repir video links in the future for their specified vehicle, and take all the legwork out of researching themselves
+I'm hoping to implement repir video links in the future for their specified vehicle, and take all the legwork out of researching themselves.
+ Also, I could recommened parts websites that are more budget friendly.
  
 ## Out of Scope
 
 [What features is this app specifically avoiding?]
 
+I will avoid recommending any autoshops for them to go to, since this whole program revolves around getting the user into fixing their own vehicles and saving money.
+
 I don't see my product needing any other features other than accepting user-input vehicle/make/model/year/mileage, and then whether or not they want to save their mileage at different repair intervals. It will be pretty basic.
+
 
 ## Requirements
 
@@ -34,7 +38,7 @@ I don't see my product needing any other features other than accepting user-inpu
 
 ### The product should
 
-- Have an up-to-date database to reference from
+- Have an up-to-date database to reference from, and maybe recommend online parts stores.
 
 ### The product could
 
